@@ -1,2 +1,2 @@
 # colorchange
-Color change page in the background Javascript 
+Color change the background page into a random color and displays the hexnumber of the color in the Background.
